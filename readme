@@ -1,0 +1,16 @@
+
+ my algorithmic tracks
+~~~~~~~~~~~~~~~~~~~~~~~
+
+ how to listen
+-=-=-=-=-=-=-=-
+
+- clone repository
+- install wavepot: npm install wavepot -g
+- install deps: npm install
+
+then listen with: wavepot -b <track-file>
+
+as with wavepot, you can edit them and listen to changes while playing
+
+enjoy!
